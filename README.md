@@ -9,7 +9,7 @@ Arduino OPTA PLC WIFI or ESP-32 or Arduino Uno r4 or any module with a BLE capab
 
 ## Procedure for Opta
 1. Follow step 1 as above.
-2. Install Arduino PLC IDE, then open the ble folder and upload it into your opta.
+2. Install Arduino PLC IDE, then open the scanforperipheral_connect folder and upload it into your opta.
 3. I found it easier and quicker to ONLY OPEN THE ARDUINO IDE after clciking the upload button on the Arduino PLC IDE. and yes, they are different.
 
 You will now have a virtual input for your plc ide. potentially extending your inputs from 8 to 9.
